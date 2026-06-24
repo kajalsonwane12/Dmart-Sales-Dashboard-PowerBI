@@ -19,7 +19,7 @@ A Power BI dashboard built to analyze Dmart retail sales data and generate insig
 25,000+ retail transactions including customer, product, sales, and operational data.
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](DMartDashboard.png)
 
 ## 🚀 Project Files
 - Dmart Project.pbix
